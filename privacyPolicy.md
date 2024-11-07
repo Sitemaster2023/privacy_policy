@@ -159,4 +159,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, You can contact us:
 
 - By email: angshu.iiests@gmail.com
-- By visiting this page on our website: [https://www.sitemasterhq.com/](https://www.sitemasterhq.com/)
+- By visiting this page on our website: [https://www.sitemaster.ai/](https://www.sitemaster.ai/)
