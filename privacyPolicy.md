@@ -154,6 +154,32 @@ We will let You know via email and/or a prominent notice on Our Service, prior t
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
+# Cancellation and Refund Policy 
+At SiteMaster, we strive to provide you with the best project management experience. However, we understand that there may be situations where you need to request a cancellation or refund.
+1. Subscription Cancellation
+	• Customers can cancel their subscription at any time directly by contacting our support team.
+	• For cancellations made before the billing period ends, access to the service will continue until the current subscription period expires.
+2. Refund Policy
+	• Refunds on Annual Subscriptions: If you cancel within the first 7 days of subscribing to an annual plan, a full refund will be provided. Beyond this period, refunds will not be issued.
+	• Refunds on Monthly Subscriptions: Refunds are not applicable for monthly subscriptions once payment has been processed.
+	• If you experience technical issues or errors that prevent you from using the platform effectively, please contact our support team. Refunds in such cases will be evaluated on a case-by-case basis.
+3. Refund Request Process
+	• To request a refund, email us at tech.sitemaster@gmail.com with your account details and the reason for the refund request.
+	• Refunds will be processed within 10-15 working days upon approval.
+4. Non-Refundable Scenarios
+	• Refunds will not be issued for partial periods of service, unused features, or change of mind.
+	• If the service was discontinued due to violation of our Terms of Service, no refunds will be provided.
+
+# Shipping and Delivery Policy
+As SiteMaster is a digital software solution, there are no physical products to ship. The following outlines our approach to digital service delivery:
+1. Service Activation
+	• Upon successful payment, your account will be activated within a few minutes, and you will receive a confirmation email with instructions on accessing the platform.
+	• If you do not receive confirmation within 24 hours, please contact us at tech.sitemaster@gmail.com.
+2. Delivery Method
+	• SiteMaster services are delivered entirely online via web and mobile platforms. No physical delivery is required.
+3. Access Issues
+If you experience any issues accessing your account or services, please contact our customer support team for assistance.
+
 # Contact Us
 
 If you have any questions about this Privacy Policy, You can contact us:
